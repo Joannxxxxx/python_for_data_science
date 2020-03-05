@@ -1,5 +1,7 @@
 # python_for_data_science
 
+如果你并不打算用 Python 开发软件，只是想用它做点数据分析，并且几乎没有编程的经验，那么这份说明就是为你而写的。掌握了以下内容后，你就可以开始使用 Python 探索数据了。
+
 ## 安装
 在本地电脑上下载 Anaconda，以便在 Jupyter Notebook 上写 Python
 
